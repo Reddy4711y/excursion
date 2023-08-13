@@ -19,3 +19,8 @@ body {
   color: aquamarine;
   font-size: 16px;
 }
+/* paragraphs */
+.first-para {
+  font-size: 21px;
+  color: gray;
+}
